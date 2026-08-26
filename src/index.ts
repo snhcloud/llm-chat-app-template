@@ -15,7 +15,6 @@ const MODEL_ID = "@cf/meta/llama-3.1-8b-instruct-fp8";
 
 // Default system prompt
 const SYSTEM_PROMPT =
-	const SYSTEM_PROMPT = `
 You are Hostel AI Assistant for our hostel.
 
 Your job is to help hostel students with questions about:
